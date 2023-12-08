@@ -1,6 +1,6 @@
 # LLM360 Code Repositories
 
-- [Analysis360](https://github.com/LLM360/Analysis360) - Evaluation and analysis code for LLM360.
+- [Analysis360](https://github.com/LLM360/Analysis360) - Evaluation and analysis code for all LLM360 models.
 
 ## Amber-7B
 
