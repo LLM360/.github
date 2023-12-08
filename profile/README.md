@@ -1,13 +1,13 @@
 # LLM360 Code Repositories
 
-- [Analysis360](https://github.com/LLM360/Analysis360)
+- [Analysis360](https://github.com/LLM360/Analysis360) - Evaluation and analysis code for LLM360.
 
 ## Amber-7B
 
-- [amber-train](https://github.com/LLM360/amber-train)
-- [amber-data-prep](https://github.com/LLM360/amber-data-prep)
+- [amber-data-prep](https://github.com/LLM360/amber-data-prep) - Data preparation code for Amber-7B model.
+- [amber-train](https://github.com/LLM360/amber-train) - Training code for Amber-7B model.
 
 ## CrystalCoder-7B
 
-- [crystalcoder-train](https://github.com/LLM360/crystalcoder-train)
-- [crystalcoder-data-prep](https://github.com/LLM360/crystalcoder-data-prep)
+- [crystalcoder-data-prep](https://github.com/LLM360/crystalcoder-data-prep) - Data preparation code for CrystalCoder-7B model.
+- [crystalcoder-train](https://github.com/LLM360/crystalcoder-train) - Training code for CrystalCoder-7B model.
